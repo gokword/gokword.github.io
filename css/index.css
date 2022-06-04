@@ -123,6 +123,7 @@ body{
 .menubar .first-span{
     width:35px;
 }
+
 .menubar .first-span::before{
     content: "";
     position: absolute;
